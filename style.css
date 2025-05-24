@@ -1,0 +1,27 @@
+body {
+    background-color: aqua;
+    font-family: sans-serif;
+}
+
+.w {
+    background-color: aquamarine;
+    margin: 5px;
+    padding: 20px;
+}
+
+b {
+    font-size: 40px;
+}
+
+.q {
+    
+}
+
+.f {
+   color: aquamarine;
+}
+
+
+ul{
+    list-style: url("https://i.ibb.co/Df2SdhxX/Photoroom.png");
+}
